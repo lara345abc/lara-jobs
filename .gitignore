@@ -1,0 +1,9 @@
+lara_jobs_client/node_modules
+lara_jobs_client/package-lock.json
+
+
+lara_jobs_server/package-lock.json
+lara_jobs_server/node_modules
+lara_jobs_server/.env
+
+
