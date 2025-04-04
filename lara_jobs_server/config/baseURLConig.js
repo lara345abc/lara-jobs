@@ -1,2 +1,2 @@
-const baseURL = "http://localhost:5173";
+const baseURL = "https://api.totfd.in";
 module.exports = { baseURL };
